@@ -1,8 +1,8 @@
 pipeline {
     agent any
     environment {
-        PROJECT_ID = 'virtual-anchor-319409'
-        GCP_SA = 'myfirstproject'
+        PROJECT_ID = 'my-project-600-339318'
+        GCP_SA = 'My Project 600 '
     }
     stages {
 
